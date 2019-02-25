@@ -1,0 +1,90 @@
+body{
+	font-family: helvetica, Arial, sans-serif;
+	margin: 0;
+
+}
+
+header{
+	background-color: #204359;
+	color: white;
+	padding: 16px;
+	text-align: center;
+}
+
+p,h1{
+	display: inline-block;
+	width: 400px;
+}
+
+#nombre{
+	font-weight: 700;
+}
+
+#ocupacion{
+	font-weight: 200;
+}
+
+.encab2{
+	background-color: #3979A0;
+	color: white;
+	padding: 10px;
+	text-align:center;
+}
+
+.seccion1{
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+
+.seccion2{
+	margin-top: 70px;
+}
+
+.seccion3{
+	margin-top: 70px;
+}
+
+.seccion1a{
+	display: inline-block;
+	vertical-align: top;
+	width: 68%;
+}
+
+.images1{
+	border: 4px solid #363477;
+	border-radius: 4px;
+	display: inline-block;
+	height: 288px;
+	margin-top: 20px;
+	width: 30%;
+}
+
+#titulos_se{
+	font-size: 36px;
+	font-weight: 700;
+}
+
+#titulos_ter{
+	font-size: 26px;
+	font-weight: 700;
+}
+
+dt{
+	font-size: 22px;
+	margin-bottom: 12px;
+	margin-top: 36px;
+	text-transform: uppercase;
+}
+
+ul{
+	margin-top: 12px;
+}
+
+li{
+	margin-top: 2px;
+}
+
+img{
+	width: 100%;
+}
